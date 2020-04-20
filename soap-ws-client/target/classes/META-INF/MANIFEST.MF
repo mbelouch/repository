@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: macos
+Build-Jdk: 11.0.1
+Implementation-Title: spring-demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.concretepage
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/soap-ws-client
+ /
+Created-By: Maven Integration for Eclipse
+
